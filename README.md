@@ -36,6 +36,7 @@ Exibe todos os funcionários cadastrados com:
 
 Nome
 Matrícula / CPF
+
 3️⃣ Gerar Folha de Pagamento
 
 Mostra:
