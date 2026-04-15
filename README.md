@@ -26,10 +26,14 @@ Cargo
 
 Cargos disponíveis:
 
-Cargo    Descrição    Cálculo do salário
+Cargo  Descrição    Cálculo do salário
+
 1    Funcionário Padrão    Salário base
+
 2    Funcionário Comissionado    Salário base + 10% sobre vendas
+
 3    Funcionário de Produção    Salário base + R$16 por item produzido
+
 2️⃣ Listar Funcionários
 
 Exibe todos os funcionários cadastrados com:
