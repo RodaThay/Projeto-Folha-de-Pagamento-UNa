@@ -52,10 +52,10 @@ Geração detalhada de contracheque individual contendo:
 ---
 
 ## 👥 Autores (Grupo)
-* **[Seu Nome]** - Thayssa
-* **[Nome do Colega 1]** - Julia
-* **[Nome do Colega 2]** - Mayara
-* **[Nome do Colega 3]** - Frederico
-* **[Nome do Colega 4]** - Leonardo
+* **[Thayssa]** 
+* **[Julia]** 
+* **[Mayara]** 
+* **[Frederico]** 
+* **[Leonardo]**
 
 ---
